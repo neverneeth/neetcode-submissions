@@ -1,6 +1,7 @@
 # NeetCode Solutions — @neverneeth
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> I've also added non neetcode questions I solve too
 
 ---
 
